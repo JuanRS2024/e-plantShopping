@@ -18,7 +18,7 @@ function ProductList({ onViewCartClick }) {
     };
   
    
-    const styleObj = {    
+    const styleObj = {
         backgroundColor: '#4CAF50',
         color: '#fff!important',
         padding: '15px',
